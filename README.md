@@ -1,1 +1,1 @@
-# BA775-Project
+Collaborators: Tanvi Sheth, Pritam Pandit, Mauro Wang, Kunjingyi Chen
